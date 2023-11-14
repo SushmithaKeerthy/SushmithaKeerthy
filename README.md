@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @SushmithaKeerthy
-- 👀 I’m interested in data science and analytics
-- 🌱 I’m currently learning python and SQL
-- 💞️ I’m looking to collaborate on manipulating and visualising healthcare datasets
+- 👀 I’m interested in applying data science and statistical techniques to solve business problems 
+- 🌱 I’m currently researching on LLMs
+- 💞️ I’m looking to collaborate on machine learning projects
+- 🛠️ My toolkit includes Python, SQL, PowerBI, Tableau
 
 
 <!---
