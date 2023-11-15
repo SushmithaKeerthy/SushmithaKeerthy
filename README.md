@@ -2,7 +2,7 @@
 - 👀 I’m interested in applying data science and statistical techniques to solve business problems 
 - 🌱 I’m currently researching on LLMs
 - 💞️ I’m looking to collaborate on machine learning projects
-- 🛠️ My toolkit includes Python, SQL, PowerBI, Tableau
+- 🛠️ My toolkit includes Python, SQL, R, PowerBI, Tableau
 
 
 <!---
